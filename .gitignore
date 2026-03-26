@@ -1,0 +1,12 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+*.log
+
+# 100MB 초과 대용량 IFC 파일
+my-3d-service/public/models/LTU_AHouse/LTU_A-House_redesign.ifc
+my-3d-service/public/models/NBU_MedicalClinic/NBU_MedicalClinic_Eng-MEP-Optimized.ifc
+my-3d-service/public/models/NBU_MedicalClinic/NBU_MedicalClinic_Eng-MEP.ifc
+my-3d-service/public/models/NVW_DCR/NVW_DCR-LOD300_Arch.ifc
